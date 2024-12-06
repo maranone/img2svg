@@ -1,0 +1,13 @@
+setup.py
+img2svg/__init__.py
+img2svg/__main__.py
+img2svg/cli.py
+img2svg/image_processing.py
+img2svg/inkscape_operations.py
+img2svg/svg_conversion.py
+img2svg.egg-info/PKG-INFO
+img2svg.egg-info/SOURCES.txt
+img2svg.egg-info/dependency_links.txt
+img2svg.egg-info/entry_points.txt
+img2svg.egg-info/requires.txt
+img2svg.egg-info/top_level.txt
